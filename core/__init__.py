@@ -1,0 +1,3 @@
+"""
+Bilginay Core Modülleri
+"""

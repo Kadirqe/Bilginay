@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database
+*.db
+*.sqlite3
+
+# Bilginay Memory Data
+memory.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo

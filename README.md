@@ -137,7 +137,7 @@ bilginay/
 ### 1. Depoyu klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/bilginay.git
+git clone https://github.com/Kadirqe/bilginay.git
 cd bilginay
 ```
 

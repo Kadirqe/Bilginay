@@ -364,7 +364,7 @@ Bu proje [MIT Lisansı](LICENSE) kapsamında lisanslanmıştır.
 
 ## 👨‍💻 Yazar
 
-**Huseyin** — Yapay Zeka Araştırmacısı & Geliştirici  
+**Kadirqe** — Yapay Zeka Araştırmacısı & Geliştirici  
 Bilginay, tamamen CPU üzerinde çalışan, erişilebilir ve şeffaf bir yapay zeka sistemi inşa etme vizyonuyla geliştirilmektedir.
 
 ---

@@ -1,4 +1,5 @@
 # 🧠 Bilginay — Çok Uzman Akıl Yürütme Sistemi
+<img width="3072" height="2048" alt="WhatsApp Image 2026-05-01 at 17,33,42-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/6d7838d8-a5b2-4d91-960a-61762e5f87cd" />
 
 <div align="center">
 
